@@ -6,12 +6,27 @@
 #main{background-color:#000099;font-family:microsoft sans serif;font-size:12px;margin:0px 0px 0px 0px} 
 fieldset{margin:10px 0px 0px 0px;padding:0px} 
 legend{
-border-radius:10px;padding:5px; 
-background-color:#444444;color:#ffffdd;font-size:14px;display:block;padding-left:5px;padding-right:10px;border:2px solid #f9f9f9;
+border-radius:10px;padding:5px;font-family:EDMuzazhi;
+background-color:#444444;color:#ffffdd;font-size:24px;display:block;
+padding:5 20 0 10;
+border:2px outset #dddddd !important;
 }
+
+
+
+
+
+
+
+
+
+
 .topbar{
 background-image: url("dd.jpg");	
-width:100%;font-size:20px;background-color:pink;color:blue;text-align:center;height:60px;padding:0px;border-spacing:0px;border-style:none
+width:100%;font-size:20px;background-color:pink;color:blue;text-align:center;height:60px;
+padding:0px;
+border-spacing:0px;
+border-style:none
 } 
 .topbar a:link, .topbar a:visited{color:#aaffaa;text-decoration:none} 
 .topbar td {text-align:center} 
